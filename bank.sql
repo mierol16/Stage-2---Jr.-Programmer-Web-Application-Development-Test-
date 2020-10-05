@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Oct 05, 2020 at 01:01 PM
+-- Generation Time: Oct 05, 2020 at 02:28 PM
 -- Server version: 10.1.34-MariaDB
 -- PHP Version: 7.2.7
 
@@ -39,14 +39,6 @@ CREATE TABLE `answers` (
 --
 
 INSERT INTO `answers` (`ans_id`, `ans_q_id`, `answer`) VALUES
-(1, 3, 'Yes,No'),
-(2, 4, 'Yes,No'),
-(3, 5, 'hhhhaaaaa,aaa,ewewe,ytuyutyu'),
-(4, 6, 'ffdfdfdf,fdfdd'),
-(5, 7, 'Yes,No'),
-(9, 8, 'Yes,No'),
-(10, 9, 'a,b,c,d'),
-(11, 11, 'Y,N'),
 (12, 12, 'Yes,No'),
 (13, 13, 'Service desk,Staff,Environment,Customer service');
 
